@@ -123,6 +123,7 @@ body {
 }
 
 #nav-sp a:hover {
+  color: #fff;
   text-decoration: underline;
 }
 
